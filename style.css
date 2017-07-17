@@ -1,0 +1,13 @@
+﻿/*selector*//*color is a property : value*/
+#firstHeading{
+    text-align:center;
+    color:blue;
+    font-family:Wingdings,sans-serif;
+}
+body{
+    background-color:#DC1CFF;
+}
+.introText{
+    color:white;
+    font-family: 'Alfa Slab One', cursive;
+}
